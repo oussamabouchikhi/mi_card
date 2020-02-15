@@ -3,5 +3,5 @@
 ## Contributing
 Feel free to ```fork``` this repo and open a pull reauest.
 
-##Licemse
+## License
 This project is under [MIT](https://opensource.org/licenses/MIT) license.
